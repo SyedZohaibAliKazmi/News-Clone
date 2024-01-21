@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,800&display=swap");
 /* 'Playfair Display', serif; */
-@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Noto+Nastaliq+Urdu:wght@600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lemon&family=Noto+Nastaliq+Urdu:wght@600;700&display=swap");
 /* 'Noto Nastaliq Urdu', serif;; */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,700&display=swap");
 /* 'Lato', sans-serif; link may use hoa ha  */
 
 /* Top left  */
@@ -15,142 +15,143 @@
     width: 100%;
   
 } */
-#english{
-    display: inline-block;
-    height: 150px;
-    margin-left: 14%;
+#english {
+  display: inline-block;
+  height: 150px;
+  margin-left: 14%;
 }
-.watch{
-    color: rgb(170, 0, 0);
-    text-decoration: none;
-    display: inline-block;
-    font-family: serif;
-    font-style: italic;
-    font-size: 18px;
-    border-bottom: solid rgb(0, 174, 255);
-    border-width: 1px;
+.watch {
+  color: rgb(170, 0, 0);
+  text-decoration: none;
+  display: inline-block;
+  font-family: serif;
+  font-style: italic;
+  font-size: 18px;
+  border-bottom: solid rgb(0, 174, 255);
+  border-width: 1px;
 }
-.election{
-    color: black;
-    text-decoration: none;
-    display: inline-block;
-    font-family: serif;
-    font-style: italic;
-    font: size 18px; 
-    border-bottom:solid rgb(0, 174, 255);
-    border-width: 1px;
+.election {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  font-family: serif;
+  font-style: italic;
+  font: size 18px;
+  border-bottom: solid rgb(0, 174, 255);
+  border-width: 1px;
 }
-.pakistan{
-    color: black;
-    text-decoration: none;
-    display: inline-block;
-    font-family: serif;
-    font-style: italic;
-    font-size: 18px;
+.pakistan {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  font-family: serif;
+  font-style: italic;
+  font-size: 18px;
 }
-#aajlogo{
-    display: inline-block;
-    margin-left: 25%;
+#aajlogo {
+  display: inline-block;
+  margin-left: 25%;
 }
-#logo{
-    display: inline-block;
-    width: 80px;
-    height: 130px;
+#logo {
+  display: inline-block;
+  width: 80px;
+  height: 130px;
 }
-#aajlogo >p{
-    display: inline-block;
-    font-style: normal;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 12px;
-    color: #000000;
-    margin-left: -35%;
+#aajlogo > p {
+  display: inline-block;
+  font-style: normal;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 12px;
+  color: #000000;
+  margin-left: -35%;
 }
 /* Top Right  */
-#urdu-header{
-    display: inline-block;
-    height: 150px;
-    margin-left: 10%;
+#urdu-header {
+  display: inline-block;
+  height: 150px;
+  margin-left: 10%;
 }
-.urdu{
-    color: rgb(201, 0, 0);
-    text-decoration: none;
-    font-family: 'Noto Nastaliq Urdu', serif;;
-    font-size: 18px;
-    display: inline-block;
-    border-bottom: solid rgb(0, 174, 255);
-    border-width: 1px;
+.urdu {
+  color: rgb(201, 0, 0);
+  text-decoration: none;
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-size: 18px;
+  display: inline-block;
+  border-bottom: solid rgb(0, 174, 255);
+  border-width: 1px;
 }
-.petrol-prices{
-    color: #000000;
-    text-decoration: none;
-    font-family:  'Noto Nastaliq Urdu', serif;
-    font-size: 18px;
-    display: inline-block;
-    border-bottom: solid rgb(0, 174, 255);
-    border-width: 1px;
+.petrol-prices {
+  color: #000000;
+  text-decoration: none;
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-size: 18px;
+  display: inline-block;
+  border-bottom: solid rgb(0, 174, 255);
+  border-width: 1px;
 }
-.hamas-attack{
-    color: #000000;
-    text-decoration: none;
-    font-family:  'Noto Nastaliq Urdu', serif;
-    font-size: 18px;
-    display: inline-block;
+.hamas-attack {
+  color: #000000;
+  text-decoration: none;
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-size: 18px;
+  display: inline-block;
 }
 /* hr lines */
-.hr{
-    color: #000000;
-    border: 1.5px solid black;
+.hr {
+  color: #000000;
+  border: 1.5px solid black;
 }
 /* links kay fonts size alignment */
-#link{
-    text-align: center;
-    font-family: 'Lato', sans-serif;;
-    font-size: 21px;
-    font-weight: 700;
+#link {
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
 }
-#link > a{
-    text-decoration: none;
-    color: #000000;
+#link > a {
+  text-decoration: none;
+  color: #000000;
 }
 /* search icon ki width or height */
-#search{
-    width: 1.3%;
+#search {
+  width: 1.3%;
 }
-#hr{
-    color: #000000;
-    border: 1.5px solid black;
+#hr {
+  color: #000000;
+  border: 1.5px solid black;
 }
-.stories{
-    color: rgb(255, 255, 255);
-    text-align: center;
-    font-size: larger;
-    width: 1.5in;
-    height: .3in;
-    background-color: #000000;
+.stories {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: larger;
+  width: 1.5in;
+  height: 0.3in;
+  background-color: #000000;
 }
-#artical-1 > b{
-    font-family:  'Lato', sans-serif;
-    font-size: 12px;
-    font-weight: 800;
+#articals > b {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
 }
-#time{
-    color: rgb(0, 134, 116);
+#time {
+  color: rgb(0, 134, 116);
 }
 /* left corner kay Artical  */
-.azam{
-    color: #000000;
-    text-decoration: none;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
+.azam {
+  color: #000000;
+  text-decoration: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
 }
-#one > a{
-    color: #000000;
-    text-decoration: none;
+#one > a {
+  color: #000000;
+  text-decoration: none;
 }
-.img{
-    font-size: 16px;
-    font-family: serif;
-    color: rgb(11, 0, 22);
+.img {
+  font-size: 16px;
+  font-family: serif;
+  color: rgb(11, 0, 22);
 }
